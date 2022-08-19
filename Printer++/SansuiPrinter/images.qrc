@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>app_icon.png</file>
+        <file>back_ground.png</file>
+        <file>Settings.ico</file>
+        <file>Admin.ico</file>
+        <file>appicon.ico</file>
+        <file>Help.ico</file>
+    </qresource>
+</RCC>

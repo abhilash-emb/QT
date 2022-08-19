@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>background.png</file>
+        <file>exit.png</file>
+        <file>help.png</file>
+        <file>operator.png</file>
+        <file>settings.png</file>
+        <file>capsules_1.png</file>
+        <file>capsules.png</file>
+        <file>Adminlogin.jpg</file>
+        <file>enter.png</file>
+        <file>user.ico</file>
+        <file>password.ico</file>
+        <file>administrator.png</file>
+        <file>admin.png</file>
+        <file>operatorlogin.png</file>
+        <file>delete.png</file>
+        <file>save.png</file>
+        <file>lock.png</file>
+        <file>appicon.ico</file>
+    </qresource>
+</RCC>

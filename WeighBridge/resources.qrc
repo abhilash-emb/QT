@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/new/resource" lang="english">
+        <file>Viewticket.png</file>
+        <file>Background.jpg</file>
+        <file>Background2.jpg</file>
+        <file>Background3.jpg</file>
+        <file>Background4.jpg</file>
+        <file>Customernotfound.png</file>
+        <file>Customersearch.png</file>
+        <file>Exit.png</file>
+        <file>Firstweight.png</file>
+        <file>Help.png</file>
+        <file>Materialsearch.png</file>
+        <file>Print.png</file>
+        <file>Receiptsearch.png</file>
+        <file>Reports.png</file>
+        <file>search2.png</file>
+        <file>Secondweight.png</file>
+        <file>Settings.png</file>
+        <file>Searchcalender.png</file>
+        <file>Password.png</file>
+        <file>background.png</file>
+        <file>Refresh-icon.png</file>
+        <file>Actions-edit-clear-icon.png</file>
+        <file>navigate-left-icon.png</file>
+        <file>navigate-right-icon.png</file>
+        <file>tare.png</file>
+    </qresource>
+</RCC>
